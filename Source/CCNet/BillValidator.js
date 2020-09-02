@@ -73,7 +73,7 @@ class BillValidator extends EventEmitter {
 
     /* On serial close event. */
     this.serial.on('close', function () {
-      this.onSerialPortClose();
+      self.onSerialPortClose();
     });
 
     /* Set CCNet packet parser. */
