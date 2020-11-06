@@ -1,6 +1,6 @@
 {
-  "name": "cashcode-bv",
-  "version": "0.0.2",
+  "name": "cashcode-bv2",
+  "version": "0.0.1",
   "description": "Library for working with \"CashCode\" Bill Validator devices from Node.js app.",
   "main": "Source/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Desionlab/node-cashcode-bv.git"
+    "url": "git+https://github.com/AmanSin001/node-cashcode-bv2.git"
   },
   "keywords": [
     "nodejs",
@@ -23,9 +23,9 @@
   "author": "Desionlab <fenixphp@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Desionlab/node-cashcode-bv/issues"
+    "url": "https://github.com/AmanSin001/node-cashcode-bv2/issues"
   },
-  "homepage": "https://github.com/Desionlab/node-cashcode-bv#readme",
+  "homepage": "https://github.com/AmanSin001/node-cashcode-bv2#readme",
   "dependencies": {
     "serialport": "latest"
   },
